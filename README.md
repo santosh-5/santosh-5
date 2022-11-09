@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Text Recognizer using RNN**
 
-- 🌱 I’m currently learning **Deep Learning and Block Chain**
+- 🌱 I’m currently learning **Deep Learning and Frontend development**
 
 - 👯 I’m looking to collaborate on **flutter desktop applications**
 
