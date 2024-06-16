@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
-<h3 align="center">A passionate UI/UX Designer and Game Developer</h3>
+<h3 align="center">A passionate Game Developer and UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-5&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-5" alt="santosh-5" /></a> </p>
 
-- 🔭 I’m currently working on **Text Recognizer using RNN**
+- 🔭 I’m currently working as **Junior Game Developer**
 
-- 🌱 I’m currently learning **Deep Learning and Frontend development**
+- 🌱 I’m currently learning **Unity Engine and C# Programming**
 
-- 👯 I’m looking to collaborate on **flutter desktop applications**
+- 👯 I’m looking to collaborate on **Web Applications**
 
-- 🤝 I’m looking for help with **components in designing**
+- 🤝 I’m looking for help with **AR/VR Applications**
 
-- 💬 Ask me about **Interface Designing and any designing related stuffs**
+- 💬 Fun Fact **As a game developer, my hobby of UI/UX design keeps things visually fun, and I'm currently cloud-hopping through the digital skies!**
 
 - 📫 How to reach me **sidarthsantosh@gmail.com**
 
